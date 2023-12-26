@@ -22,7 +22,7 @@ using Game;
 
 namespace MassExodus
 {
-	[BepInPlugin(GUID, "Mass Exodus", "1.0.0")]
+	[BepInPlugin(GUID, "Mass Exodus", "1.0.1")]
 	[HarmonyPatch]
 	public class Plugin : BaseUnityPlugin
 	{
