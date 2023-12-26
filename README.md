@@ -8,4 +8,8 @@ There are no settings. If this mod is enabled, any city you load will have its C
 
 Kudos to [algernon](https://thunderstore.io/c/cities-skylines-ii/p/algernon/) ([GitHub](https://github.com/algernon-A/)) for laying some of the modding ground work in their other CS2 mods published here. Hopefully I did the copyright stuff correctly. Some code and techniques were borrowed from algernon's [Line Tool Lite](https://github.com/algernon-A/LineToolLite) mod. Please reach out to me on the Cities: Skylines Modding Discord (username `ranthos`) if I've done the credits incorrectly.
 
+## Source
+[https://github.com/mitterdoo/CS2MassExodus](https://github.com/mitterdoo/CS2MassExodus)
+
+
 (Yes, I know the population count doesn't update)
